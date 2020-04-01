@@ -261,3 +261,4 @@ let right = sprites.create(img`
 1 
 `, SpriteKind.edge)
 right.setPosition(159, 60)
+music.baDing.play()
